@@ -1,0 +1,6 @@
+framework module Pods_AnimationAppTest {
+  umbrella header "Pods-AnimationAppTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
